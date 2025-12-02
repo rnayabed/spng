@@ -1,0 +1,9 @@
+baseURL = 'https://rnayabed.github.io/spng'
+languageCode = 'en-in'
+title = 'SPNG devlog'
+theme = 'diary'
+copyright = "2025 Debayan Sutradhar"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

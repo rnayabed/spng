@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on SPNG devlog</title>
+    <link>http://localhost:1313/spng/categories/story/</link>
+    <description>Recent content in Story on SPNG devlog</description>
+    <generator>Hugo</generator>
+    <language>en-in</language>
+    <copyright>2025 Debayan Sutradhar</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 22:00:07 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/spng/categories/story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reset</title>
+      <link>http://localhost:1313/spng/posts/reset/reset/</link>
+      <pubDate>Mon, 01 Dec 2025 22:00:07 +0530</pubDate>
+      <guid>http://localhost:1313/spng/posts/reset/reset/</guid>
+      <description>&lt;p&gt;As the year is coming to an end, I am coming to the realisation that Stream-Pi has been dead for more years than it was alive.&lt;/p&gt;&#xA;&lt;p&gt;In the past, I have announced a complete re-write half a dozen times. But every single one of them ended up in a brief period of full time work, followed by an abrupt stop due to exams/personal issues. By the time I am free again, I lose the motivation to work because usually I forget which component or part I was working on.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
